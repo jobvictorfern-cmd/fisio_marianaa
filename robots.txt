@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jobvictorfern-cmd.github.io/fisio_marianaa/sitemap.xml

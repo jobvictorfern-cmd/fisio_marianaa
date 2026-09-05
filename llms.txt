@@ -1,0 +1,23 @@
+# Dra. Marianna Ingrid | Fisioterapia gerontológica
+
+> Site institucional da Dra. Marianna Ingrid, fisioterapeuta com atuação em gerontologia e atendimento domiciliar em Salvador e Lauro de Freitas, Bahia.
+
+## Principal
+
+- [Início](https://jobvictorfern-cmd.github.io/fisio_marianaa/): apresentação profissional, serviços, processo de atendimento, dúvidas frequentes e contato.
+
+## Atendimentos
+
+- Fisioterapia para idosos: atendimento domiciliar com foco em prevenção de quedas, equilíbrio, mobilidade, funcionalidade e autonomia.
+- Pilates: prática individualizada para força, estabilidade, postura, mobilidade e consciência corporal.
+- Terapia manual: drenagem linfática, liberação miofascial e massagem relaxante.
+
+## Atendimento e contato
+
+- Atendimento domiciliar em Salvador e Lauro de Freitas, BA.
+- [Agendar uma avaliação](https://jobvictorfern-cmd.github.io/fisio_marianaa/#contato): contato pelo WhatsApp para conhecer as necessidades da pessoa e combinar o melhor horário.
+
+## Credenciais
+
+- Dra. Marianna Ingrid, fisioterapeuta.
+- CREFITO 459953-F.
